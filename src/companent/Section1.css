@@ -1,0 +1,38 @@
+.section1 {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://startbootstrap.github.io/startbootstrap-creative/assets/img/bg-masthead.jpg");
+    background-image: cover;
+}
+
+.text {
+
+    text-align: center;
+    width: 800px;
+}
+
+.h1 {
+    color: white;
+    font-size: 3.5rem;
+    font-weight: 500;
+}
+
+.h4 {
+    color: whitesmoke;
+    font-size: 1.15rem;
+    margin-bottom: 4rem;
+
+}
+
+.more {
+    border: none;
+    color: white;
+    font-size: 0.85rem;
+    font-weight: 700;
+    width: 180px;
+    height: 60px;
+    background-color: red;
+    border-radius: 10rem;
+}

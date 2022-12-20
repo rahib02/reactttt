@@ -1,0 +1,32 @@
+.fixed {
+    color: rgb(92, 88, 88);
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    box-sizing: border-box;
+}
+
+.navbar {
+
+    width: 850px;
+    padding: 1rem 30rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.boost {
+    padding-top: 13px;
+    font-size: 1.25rem;
+}
+
+.ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.li {
+    margin: 0 1rem;
+}

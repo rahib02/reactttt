@@ -1,0 +1,62 @@
+.section4 {
+    display: flex;
+    justify-content: center;
+}
+
+.section40 {
+    width: 636px;
+    text-align: center;
+}
+
+.lets {
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.ready {
+    padding: 20px;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.input {
+
+    display: flex;
+    flex-direction: column;
+}
+
+.input input {
+    box-sizing: border-box;
+    padding: 10px;
+    margin: auto;
+    width: 580px;
+    height: 50px;
+    border: 1px red whitesmoke;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.mesaj {
+    padding: 10px;
+    padding-bottom: 110px !important;
+    height: 152px !important;
+}
+
+.SUBMIT {
+    color: white;
+    width: 580px;
+    height: 60px;
+    background-color: orange;
+    margin: auto;
+
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 10rem;
+}
+
+.iconphone {
+    margin-top: 3rem;
+    font-size: 40px;
+}

@@ -1,0 +1,83 @@
+.sec2 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.sec21 {
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+
+}
+
+.at {
+    font-size: 2rem;
+    font-size: 500;
+    margin-top: 5rem;
+    margin-bottom: 4rem;
+}
+
+.orange {
+    width: 800px;
+    margin-bottom: 5rem;
+}
+
+.h3 {
+    font-weight: 500;
+    font-size: 2rem;
+    color: white;
+}
+
+.h4 {
+    color: whitesmoke;
+    font-size: 1.15rem;
+    margin-bottom: 4rem;
+
+}
+
+.getbtn {
+    border: none;
+    font-size: 0.85rem;
+    font-weight: 700;
+    width: 180px;
+    height: 60px;
+    border-radius: 10rem;
+}
+
+.sec22 {
+    margin: auto;
+    width: 80%;
+    height: auto;
+    margin-bottom: 8rem;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.icon {
+
+    margin: 0 20px;
+    width: 270px;
+}
+
+.iconh2 {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.iconh3 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: rgb(41, 39, 39);
+}
+
+.earth {
+    color: rgb(202, 46, 6);
+    font-size: 40px;
+}
